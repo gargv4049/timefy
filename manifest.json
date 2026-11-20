@@ -1,0 +1,17 @@
+{
+  "name": "Study Buddy \u2013 RTU 5th Semester",
+  "short_name": "Study Buddy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f3",
+  "theme_color": "#116b45",
+  "description": "Study timetable, daily checklist and reminders for RTU exams.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
